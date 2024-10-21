@@ -10,7 +10,7 @@
       "stopAtEntry": true,
       "externalConsole": false,
       "cwd": "${fileDirname}",
-      "program": "${fileDirname}/num_bits",
+      "program": "${fileDirname}/hello",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
